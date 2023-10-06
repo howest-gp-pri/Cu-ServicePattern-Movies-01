@@ -1,6 +1,6 @@
 ﻿using Cu_ServicePattern_Movies_01.Core.Data;
-using Cu_ServicePattern_Movies_01.Core.Services.Interfaces.Services;
 using Cu_ServicePattern_Movies_01.Models;
+using Cu_ServicePattern_Movies_01.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
