@@ -1,5 +1,4 @@
-﻿
-using Cu_ServicePattern_Movies_01.Core.Interfaces;
+﻿using Cu_ServicePattern_Movies_01.Core.Interfaces;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 
